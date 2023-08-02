@@ -17,4 +17,4 @@
 
 
 
-[linkedin]: https://linkedin.com/in/Humberto
+[linkedin]: https://www.linkedin.com/in/humberto-perez-07b58b251/
