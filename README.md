@@ -1,4 +1,4 @@
-<h1>Hi, I'm Humberto, an <a href="https://linkedin.com/in/Humberto">IT Professional</a>☺</h1>
+<h1>Hi, I'm Humberto, an <a href="https://www.linkedin.com/in/humberto-perez-07b58b251/">IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
